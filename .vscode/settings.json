@@ -1,0 +1,12 @@
+{
+        "editor.formatOnSave": true,
+        "files.eol": "\n",
+        "prettier.endOfLine": "auto",
+        "prettier.singleQuote": true,
+        "prettier.semi": false,
+        "eslint.options": {
+        "rules": {
+      "quotes": ["off"]
+    }
+  }
+      }
