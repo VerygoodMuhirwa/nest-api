@@ -8,5 +8,8 @@
         "rules": {
       "quotes": ["off"]
     }
-  }
+  },
+  "prisma-smart-formatter.typescriptreact.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.suggest.paths": false ,
+  "javascript.suggest.paths": false 
       }
